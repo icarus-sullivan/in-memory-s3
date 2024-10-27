@@ -1,4 +1,5 @@
 # Logs
+.s3
 logs
 *.log
 npm-debug.log*
